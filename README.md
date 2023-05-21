@@ -1,2 +1,1 @@
-# Projects TAU
- Final projects from ML courses
+# Intro to Machine Learning - Final Project
